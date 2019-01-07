@@ -9,7 +9,7 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="meta page_up" />
   </action>
   <action id="Build">
     <keyboard-shortcut first-keystroke="meta f9" />
@@ -48,7 +48,7 @@
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
-    <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="meta page_down" />
   </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="shift alt button1" />
@@ -68,6 +68,19 @@
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="meta alt close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt down" />
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="EditorCodeBlockEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorCodeBlockStart">
+    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="EditorCodeBlockStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="delete" />
@@ -106,6 +119,10 @@
     <keyboard-shortcut first-keystroke="meta left" />
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorMoveToPageBottom" />
+  <action id="EditorMoveToPageTop" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
@@ -121,12 +138,6 @@
   </action>
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl left" />
-  </action>
-  <action id="EditorScrollDownAndMove">
-    <keyboard-shortcut first-keystroke="ctrl page_down" />
-  </action>
-  <action id="EditorScrollUpAndMove">
-    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta e" />
@@ -172,6 +183,12 @@
   </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+  </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="MoveTabDown">
@@ -232,6 +249,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
+  <action id="ShowContent" />
   <action id="ShowNavBar" />
   <action id="SmartSelect">
     <keyboard-shortcut first-keystroke="meta e" />
