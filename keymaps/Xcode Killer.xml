@@ -169,6 +169,7 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="GotoLine" />
   <action id="GotoSuperMethod" />
   <action id="IncrementWindowHeight" />
   <action id="Jdbc.OpenEditor.DDL">
@@ -262,7 +263,7 @@
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta f2" />
-    <keyboard-shortcut first-keystroke="meta q" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
   <action id="TableResult.GrowSelection">
     <keyboard-shortcut first-keystroke="meta e" />
@@ -276,6 +277,7 @@
   <action id="Vcs.EditSource">
     <keyboard-shortcut first-keystroke="f4" />
   </action>
+  <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
