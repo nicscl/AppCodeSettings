@@ -28,10 +28,6 @@
   <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.CompareCells" />
-  <action id="Console.TableResult.DeleteRows">
-    <keyboard-shortcut first-keystroke="meta back_space" />
-    <keyboard-shortcut first-keystroke="page_up" />
-  </action>
   <action id="Console.TableResult.Reload" />
   <action id="DatabaseView.CopyAction" />
   <action id="DecrementWindowHeight" />
@@ -88,7 +84,7 @@
   </action>
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="meta back_space" />
-    <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="alt page_up" />
   </action>
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="meta end" />
@@ -110,7 +106,7 @@
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="meta enter" />
-    <keyboard-shortcut first-keystroke="alt page_down" />
+    <keyboard-shortcut first-keystroke="page_down" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="meta right" />
@@ -177,10 +173,10 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="Macro.Clone line in place">
-    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
   <action id="Macro.Delete Line">
-    <keyboard-shortcut first-keystroke="alt page_up" />
+    <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
