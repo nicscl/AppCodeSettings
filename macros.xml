@@ -1,0 +1,12 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Delete Line">
+      <action id="EditorDeleteLine" />
+      <action id="EditorUp" />
+    </macro>
+    <macro name="Clone line in place">
+      <action id="EditorDuplicate" />
+      <action id="EditorUp" />
+    </macro>
+  </component>
+</application>
