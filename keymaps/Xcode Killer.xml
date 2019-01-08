@@ -9,7 +9,7 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="meta page_up" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="Build">
     <keyboard-shortcut first-keystroke="meta f9" />
@@ -44,7 +44,7 @@
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
-    <keyboard-shortcut first-keystroke="meta page_down" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="shift alt button1" />
@@ -166,6 +166,9 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="GotoLine" />
+  <action id="GotoNextElementUnderCaretUsage" />
+  <action id="GotoPrevElementUnderCaretUsage" />
+  <action id="GotoRelated" />
   <action id="GotoSuperMethod" />
   <action id="IncrementWindowHeight" />
   <action id="Jdbc.OpenEditor.DDL">
@@ -175,8 +178,14 @@
   <action id="Macro.Clone line in place">
     <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
+  <action id="Macro.Cut Line">
+    <keyboard-shortcut first-keystroke="meta page_up" />
+  </action>
   <action id="Macro.Delete Line">
     <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="Macro.Paste Line">
+    <keyboard-shortcut first-keystroke="meta page_down" />
   </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />

@@ -8,5 +8,18 @@
       <action id="EditorDuplicate" />
       <action id="EditorUp" />
     </macro>
+    <macro name="Cut Line">
+      <action id="EditorLineEnd" />
+      <action id="EditorLineStartWithSelection" />
+      <action id="EditorCopy" />
+      <action id="Macro.Delete Line" />
+      <action id="EditorDeleteLine" />
+      <action id="EditorUp" />
+    </macro>
+    <macro name="Paste Line">
+      <action id="EditorLineEnd" />
+      <action id="EditorEnter" />
+      <action id="EditorPaste" />
+    </macro>
   </component>
 </application>
