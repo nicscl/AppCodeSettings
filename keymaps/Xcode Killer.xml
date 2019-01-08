@@ -105,7 +105,6 @@
     <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
   <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="meta enter" />
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
   <action id="EditorLineEnd">
@@ -174,6 +173,9 @@
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="Macro.Add Line">
+    <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="Macro.Clone line in place">
     <keyboard-shortcut first-keystroke="alt page_down" />

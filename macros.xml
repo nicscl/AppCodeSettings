@@ -21,5 +21,9 @@
       <action id="EditorEnter" />
       <action id="EditorPaste" />
     </macro>
+    <macro name="Add Line">
+      <action id="EditorLineEnd" />
+      <action id="EditorEnter" />
+    </macro>
   </component>
 </application>
