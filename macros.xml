@@ -25,5 +25,11 @@
       <action id="EditorLineEnd" />
       <action id="EditorEnter" />
     </macro>
+    <macro name="Copy Line">
+      <action id="EditorLineEnd" />
+      <action id="EditorLineStartWithSelection" />
+      <action id="EditorCopy" />
+      <action id="EditorLineEnd" />
+    </macro>
   </component>
 </application>

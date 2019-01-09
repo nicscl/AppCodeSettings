@@ -121,6 +121,7 @@
   <action id="EditorLookupUp" />
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
+  <action id="EditorMoveToPageTopWithSelection" />
   <action id="EditorNextWordInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl right" />
   </action>
@@ -185,6 +186,9 @@
   </action>
   <action id="Macro.Clone line in place">
     <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
+  <action id="Macro.Copy Line">
+    <keyboard-shortcut first-keystroke="shift meta page_up" />
   </action>
   <action id="Macro.Cut Line">
     <keyboard-shortcut first-keystroke="meta page_up" />
