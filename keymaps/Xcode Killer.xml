@@ -92,9 +92,6 @@
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="meta end" />
   </action>
-  <action id="EditorDeleteToLineStart">
-    <keyboard-shortcut first-keystroke="meta home" />
-  </action>
   <action id="EditorDeleteToWordEnd">
     <keyboard-shortcut first-keystroke="alt end" />
   </action>
@@ -195,6 +192,9 @@
   </action>
   <action id="Macro.Delete Line">
     <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+  <action id="Macro.Delete to start of text in line">
+    <keyboard-shortcut first-keystroke="meta home" />
   </action>
   <action id="Macro.Paste Line">
     <keyboard-shortcut first-keystroke="meta page_down" />

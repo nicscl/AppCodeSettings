@@ -31,5 +31,9 @@
       <action id="EditorCopy" />
       <action id="EditorLineEnd" />
     </macro>
+    <macro name="Delete to start of text in line">
+      <action id="EditorLineStartWithSelection" />
+      <action id="EditorBackSpace" />
+    </macro>
   </component>
 </application>
