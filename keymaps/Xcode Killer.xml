@@ -287,6 +287,10 @@
     <keyboard-shortcut first-keystroke="meta f2" />
     <keyboard-shortcut first-keystroke="ctrl c" />
   </action>
+  <action id="StopBackgroundProcesses">
+    <keyboard-shortcut first-keystroke="shift meta f2" />
+    <keyboard-shortcut first-keystroke="ctrl c" />
+  </action>
   <action id="TableResult.GrowSelection">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
