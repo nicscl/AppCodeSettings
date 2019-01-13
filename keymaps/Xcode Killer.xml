@@ -1,4 +1,17 @@
 <keymap version="1" name="Xcode Killer" parent="Mac OS X 10.5+">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="meta x" />
+    <keyboard-shortcut first-keystroke="shift delete" />
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+    <keyboard-shortcut first-keystroke="space" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -23,15 +36,19 @@
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="ChangesView.Diff" />
+  <action id="ChangesView.SetDefault" />
   <action id="CloseAllUnmodifiedEditors">
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
+  <action id="CodeCompletion" />
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.Reload" />
+  <action id="Console.TableResult.SelectRow" />
   <action id="DatabaseView.CopyAction" />
   <action id="DecrementWindowHeight" />
   <action id="Diff.NextChange">
@@ -48,6 +65,15 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
     <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
+  <action id="Editor Cut">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="space" />
   </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="shift alt button1" />
