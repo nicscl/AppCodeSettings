@@ -8,10 +8,6 @@
     <keyboard-shortcut first-keystroke="shift delete" />
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
-  <action id="$Paste">
-    <keyboard-shortcut first-keystroke="meta v" />
-    <keyboard-shortcut first-keystroke="space" />
-  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
@@ -71,9 +67,6 @@
   </action>
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="ctrl space" />
-  </action>
-  <action id="Editor Paste">
-    <keyboard-shortcut first-keystroke="space" />
   </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="shift alt button1" />
