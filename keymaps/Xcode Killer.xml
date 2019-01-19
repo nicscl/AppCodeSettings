@@ -1,8 +1,4 @@
 <keymap version="1" name="Xcode Killer" parent="Mac OS X 10.5+">
-  <action id="$Copy">
-    <keyboard-shortcut first-keystroke="meta c" />
-    <keyboard-shortcut first-keystroke="shift space" />
-  </action>
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="meta x" />
     <keyboard-shortcut first-keystroke="shift delete" />
@@ -61,9 +57,6 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
     <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
-  <action id="Editor Copy">
-    <keyboard-shortcut first-keystroke="shift space" />
   </action>
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="ctrl space" />
