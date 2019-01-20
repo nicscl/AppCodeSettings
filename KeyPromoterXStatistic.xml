@@ -97,6 +97,14 @@
           <Count>27</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Pleni-Production'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R' or '⌘R'</ShortCut>
+          <Description>Run 'Pleni-Production'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'PleniUITests'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
