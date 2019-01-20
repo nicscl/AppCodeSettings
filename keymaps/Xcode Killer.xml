@@ -188,6 +188,10 @@
   <action id="GotoPrevElementUnderCaretUsage" />
   <action id="GotoRelated" />
   <action id="GotoSuperMethod" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt space" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="meta button1" />
@@ -210,9 +214,6 @@
   </action>
   <action id="Macro.Delete to start of text in line">
     <keyboard-shortcut first-keystroke="meta home" />
-  </action>
-  <action id="Macro.Hide Bottom">
-    <keyboard-shortcut first-keystroke="ctrl meta alt space" />
   </action>
   <action id="Macro.Paste Line">
     <keyboard-shortcut first-keystroke="meta page_down" />
