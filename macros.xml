@@ -35,5 +35,9 @@
       <action id="EditorLineStartWithSelection" />
       <action id="EditorBackSpace" />
     </macro>
+    <macro name="Hide Bottom">
+      <action id="ActivateTerminalToolWindow" />
+      <shortuct text="meta T" />
+    </macro>
   </component>
 </application>

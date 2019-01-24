@@ -1,8 +1,4 @@
 <keymap version="1" name="Xcode Killer" parent="Mac OS X 10.5+">
-  <action id="$Copy">
-    <keyboard-shortcut first-keystroke="meta c" />
-    <keyboard-shortcut first-keystroke="shift space" />
-  </action>
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="meta x" />
     <keyboard-shortcut first-keystroke="shift delete" />
@@ -61,9 +57,6 @@
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="f4" />
     <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
-  <action id="Editor Copy">
-    <keyboard-shortcut first-keystroke="shift space" />
   </action>
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="ctrl space" />
@@ -184,6 +177,10 @@
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
+  <action id="Flutter.Toolbar.ReloadAction">
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -195,6 +192,10 @@
   <action id="GotoPrevElementUnderCaretUsage" />
   <action id="GotoRelated" />
   <action id="GotoSuperMethod" />
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="ctrl meta alt space" />
+  </action>
   <action id="IncrementWindowHeight" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="meta button1" />
@@ -276,13 +277,14 @@
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="Replace" />
+  <action id="ReplaceInPath" />
   <action id="Rerun" />
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
-    <keyboard-shortcut first-keystroke="meta r" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectAllOccurrences">
