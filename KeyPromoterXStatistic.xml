@@ -1,43 +1,11 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
-      <Statistic Action="Flutter Hot Reload">
-        <Item>
-          <IdeaActionID>Flutter.Toolbar.ReloadAction</IdeaActionID>
-          <ShortCut>'⌘\' or '⌘R'</ShortCut>
-          <Description>Flutter Hot Reload</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Run 'main.dart'">
-        <Item>
-          <IdeaActionID>Run</IdeaActionID>
-          <ShortCut>'⌃R' or '⇧⌘R'</ShortCut>
-          <Description>Run 'main.dart'</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'main.dart'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2' or '⌃C'</ShortCut>
-          <Description>Stop 'main.dart'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'pid 46041'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2' or '⌃C'</ShortCut>
-          <Description>Stop 'pid 46041'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
