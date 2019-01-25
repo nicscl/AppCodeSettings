@@ -9,6 +9,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'main.dart'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R' or '⇧⌘R'</ShortCut>
+          <Description>Run 'main.dart'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
     </option>
   </component>
 </application>
