@@ -30,7 +30,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'⌘4'</ShortCut>
           <Description>Run</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'fetchTopIds'">
@@ -46,7 +46,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R' or '⇧⌘R'</ShortCut>
           <Description>Run 'main.dart'</Description>
-          <Count>35</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'main.dart'">
