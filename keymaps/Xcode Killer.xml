@@ -55,7 +55,6 @@
   <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="Editor Cut">
@@ -177,10 +176,6 @@
   <action id="FindPrevious">
     <keyboard-shortcut first-keystroke="meta d" />
   </action>
-  <action id="Flutter.Toolbar.ReloadAction">
-    <keyboard-shortcut first-keystroke="meta back_slash" />
-    <keyboard-shortcut first-keystroke="meta r" />
-  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -245,19 +240,23 @@
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="ctrl meta back_slash" />
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl meta close_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt period" />
   </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift alt tab" />
     <keyboard-shortcut first-keystroke="ctrl meta p" />
+    <keyboard-shortcut first-keystroke="ctrl meta quote" />
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl meta open_bracket" />
+    <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
@@ -267,9 +266,7 @@
     <keyboard-shortcut first-keystroke="ctrl e" />
   </action>
   <action id="Refresh" />
-  <action id="RemoteHostView.EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="RemoteHostView.EditSource" />
   <action id="RemoteHostView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
@@ -284,7 +281,7 @@
   <action id="ResizeToolWindowUp" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
-    <keyboard-shortcut first-keystroke="shift meta r" />
+    <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SelectAllOccurrences">
@@ -323,9 +320,7 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
-  <action id="Vcs.EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="Vcs.EditSource" />
   <action id="Vcs.Log.FocusTextFilter" />
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.ShowMessageHistory">
@@ -334,8 +329,6 @@
   <action id="Vcs.UpdateProject" />
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
-  <action id="XDebugger.JumpToSource">
-    <keyboard-shortcut first-keystroke="f4" />
-  </action>
+  <action id="XDebugger.JumpToSource" />
   <action id="openAssertEqualsDiff" />
 </keymap>
