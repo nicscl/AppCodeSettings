@@ -6,7 +6,7 @@
           <IdeaActionID>CompileDirty</IdeaActionID>
           <ShortCut>'⌘F9'</ShortCut>
           <Description>Build Project</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -22,6 +22,14 @@
           <IdeaActionID>Flutter.Toolbar.ReloadAction</IdeaActionID>
           <ShortCut>'⌘\'</ShortCut>
           <Description>Flutter Hot Reload</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project Structure...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'⌘;'</ShortCut>
+          <Description>Project Structure...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
