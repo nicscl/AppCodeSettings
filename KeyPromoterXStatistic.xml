@@ -78,7 +78,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R' or '⇧⌘R'</ShortCut>
           <Description>Run 'main.dart'</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'main.dart'">
