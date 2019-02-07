@@ -249,6 +249,7 @@
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift alt tab" />
     <keyboard-shortcut first-keystroke="ctrl meta p" />
+    <keyboard-shortcut first-keystroke="ctrl meta quote" />
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
