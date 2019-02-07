@@ -61,8 +61,7 @@
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
   <action id="EditorAddOrRemoveCaret">
-    <mouse-shortcut keystroke="shift alt button1" />
-    <mouse-shortcut keystroke="alt button1" />
+    <mouse-shortcut keystroke="meta button1" />
   </action>
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
@@ -193,7 +192,6 @@
   </action>
   <action id="IncrementWindowHeight" />
   <action id="Jdbc.OpenEditor.DDL">
-    <mouse-shortcut keystroke="meta button1" />
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="Macro.Add Line">
