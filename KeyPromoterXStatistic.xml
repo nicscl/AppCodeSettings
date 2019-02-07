@@ -94,7 +94,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R' or '⇧⌘R'</ShortCut>
           <Description>Run 'main.dart'</Description>
-          <Count>70</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'main.dart'">
@@ -102,7 +102,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌃C'</ShortCut>
           <Description>Stop 'main.dart'</Description>
-          <Count>21</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
