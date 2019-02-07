@@ -172,9 +172,7 @@
   <action id="EmmetNextEditPoint" />
   <action id="Exit" />
   <action id="FileChooser.GotoDesktop" />
-  <action id="FindPrevious">
-    <keyboard-shortcut first-keystroke="meta d" />
-  </action>
+  <action id="FindPrevious" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -287,7 +285,7 @@
     <keyboard-shortcut first-keystroke="shift meta d" />
   </action>
   <action id="SelectNextOccurrence">
-    <keyboard-shortcut first-keystroke="alt d" />
+    <keyboard-shortcut first-keystroke="meta d" />
   </action>
   <action id="SendEOF" />
   <action id="ShowContent" />
