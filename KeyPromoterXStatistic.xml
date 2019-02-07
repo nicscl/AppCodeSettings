@@ -17,11 +17,27 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'main.dart'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'main.dart'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Delete...">
         <Item>
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Evaluate Expression...">
+        <Item>
+          <IdeaActionID>EvaluateExpression</IdeaActionID>
+          <ShortCut>'⌥F8'</ShortCut>
+          <Description>Evaluate Expression...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -78,7 +94,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R' or '⇧⌘R'</ShortCut>
           <Description>Run 'main.dart'</Description>
-          <Count>63</Count>
+          <Count>67</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'main.dart'">
@@ -86,7 +102,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌃C'</ShortCut>
           <Description>Stop 'main.dart'</Description>
-          <Count>17</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
@@ -94,7 +110,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2' or '⌃C'</ShortCut>
           <Description>Stop...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
