@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="customer_gateway.dart" type="Native" />
       <mapping ext="sdef" type="XML" />
     </extensionMap>
   </component>
