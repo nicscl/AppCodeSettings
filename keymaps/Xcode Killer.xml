@@ -173,6 +173,9 @@
   <action id="Exit" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindPrevious" />
+  <action id="Flutter.Toolbar.RestartAction">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
@@ -213,6 +216,7 @@
   <action id="Macro.Paste Line">
     <keyboard-shortcut first-keystroke="meta page_down" />
   </action>
+  <action id="MaximizeToolWindow" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">
@@ -237,6 +241,7 @@
     <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="ctrl meta back_slash" />
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -247,6 +252,7 @@
     <keyboard-shortcut first-keystroke="shift alt tab" />
     <keyboard-shortcut first-keystroke="ctrl meta p" />
     <keyboard-shortcut first-keystroke="ctrl meta quote" />
+    <keyboard-shortcut first-keystroke="shift meta quote" />
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
