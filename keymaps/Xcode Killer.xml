@@ -195,6 +195,7 @@
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="KotlinShellExecute" />
   <action id="Macro.Add Line">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
@@ -272,7 +273,8 @@
   <action id="RemoteHostView.Rename">
     <keyboard-shortcut first-keystroke="shift f6" />
   </action>
-  <action id="RenameFile">
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
   <action id="Replace" />
