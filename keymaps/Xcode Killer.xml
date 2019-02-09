@@ -247,7 +247,6 @@
   </action>
   <action id="NextEditorTab" />
   <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="alt tab" />
     <keyboard-shortcut first-keystroke="ctrl meta back_slash" />
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
@@ -258,10 +257,10 @@
     <keyboard-shortcut first-keystroke="ctrl alt period" />
   </action>
   <action id="PrevSplitter">
-    <keyboard-shortcut first-keystroke="shift alt tab" />
     <keyboard-shortcut first-keystroke="ctrl meta p" />
     <keyboard-shortcut first-keystroke="ctrl meta quote" />
     <keyboard-shortcut first-keystroke="shift meta quote" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
