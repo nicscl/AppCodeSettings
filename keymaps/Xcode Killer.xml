@@ -17,16 +17,13 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="Build">
     <keyboard-shortcut first-keystroke="meta f9" />
     <keyboard-shortcut first-keystroke="meta b" />
   </action>
   <action id="CIDR.Lang.Cpp.GenerateDefinitions" />
-  <action id="ChangeSplitOrientation">
-    <keyboard-shortcut first-keystroke="ctrl alt right" />
-  </action>
   <action id="ChangesView.Diff" />
   <action id="ChangesView.SetDefault" />
   <action id="ChooseNextSubsequentPropertyValueEditorAction" />
@@ -179,11 +176,18 @@
     <keyboard-shortcut first-keystroke="up" />
   </action>
   <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
   <action id="Exit" />
   <action id="FileChooser.GotoDesktop" />
   <action id="FindPrevious" />
   <action id="Flutter.Toolbar.RestartAction">
     <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="meta n" />
@@ -195,6 +199,7 @@
     <keyboard-shortcut first-keystroke="meta alt b" />
     <mouse-shortcut keystroke="meta alt button1" />
     <keyboard-shortcut first-keystroke="shift ctrl down" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="GotoLine" />
   <action id="GotoNextElementUnderCaretUsage" />
