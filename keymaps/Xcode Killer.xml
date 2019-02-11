@@ -221,9 +221,6 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="KotlinShellExecute" />
-  <action id="Macro.Add Line">
-    <keyboard-shortcut first-keystroke="ctrl enter" />
-  </action>
   <action id="Macro.Clone line in place">
     <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
@@ -293,6 +290,10 @@
   <action id="RecentChangedFiles" />
   <action id="RecentFiles">
     <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="Refresh" />
   <action id="RemoteHostView.EditSource" />
