@@ -4,6 +4,10 @@
     <keyboard-shortcut first-keystroke="shift delete" />
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="ActivateDartAnalysisToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
@@ -12,11 +16,19 @@
     <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Alias.Rule.Remove">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="Arrangement.Rule.Add">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Remove">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
@@ -44,6 +56,14 @@
   <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.SelectRow" />
   <action id="DatabaseView.CopyAction" />
+  <action id="Debugger.RemoveArrayFilter">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="Debugger.RemoveCustomField">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="DecrementWindowHeight" />
   <action id="Diff.NextChange">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -56,6 +76,10 @@
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="DomElementsTreeView.DeleteElement">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="DuplicatesForm.SendToRight" />
   <action id="EditSource">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
@@ -69,7 +93,7 @@
   <action id="EditorBackSpace">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="shift back_space" />
-    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="delete" />
   </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift page_up" />
@@ -95,30 +119,31 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorDelete">
-    <keyboard-shortcut first-keystroke="delete" />
-    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="page_down" />
   </action>
   <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="meta back_space" />
-    <keyboard-shortcut first-keystroke="alt page_up" />
-  </action>
-  <action id="EditorDeleteToLineEnd">
-    <keyboard-shortcut first-keystroke="meta end" />
-  </action>
-  <action id="EditorDeleteToWordEnd">
-    <keyboard-shortcut first-keystroke="alt end" />
-  </action>
-  <action id="EditorDeleteToWordEndInDifferentHumpsMode">
-    <keyboard-shortcut first-keystroke="ctrl end" />
-  </action>
-  <action id="EditorDeleteToWordStart">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
+  <action id="EditorDeleteToLineEnd">
+    <keyboard-shortcut first-keystroke="meta page_down" />
+  </action>
+  <action id="EditorDeleteToLineStart">
+    <keyboard-shortcut first-keystroke="meta delete" />
+  </action>
+  <action id="EditorDeleteToWordEnd">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
+  <action id="EditorDeleteToWordEndInDifferentHumpsMode">
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+  </action>
+  <action id="EditorDeleteToWordStart">
+    <keyboard-shortcut first-keystroke="alt delete" />
+  </action>
   <action id="EditorDeleteToWordStartInDifferentHumpsMode">
-    <keyboard-shortcut first-keystroke="ctrl home" />
+    <keyboard-shortcut first-keystroke="ctrl delete" />
   </action>
   <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="end" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="meta right" />
@@ -212,6 +237,13 @@
   <action id="GotoPrevElementUnderCaretUsage" />
   <action id="GotoRelated" />
   <action id="GotoSuperMethod" />
+  <action id="Graph.Delete">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="GuiDesigner.Duplicate">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="ctrl meta alt space" />
@@ -221,9 +253,6 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="KotlinShellExecute" />
-  <action id="Macro.Clone line in place">
-    <keyboard-shortcut first-keystroke="alt page_down" />
-  </action>
   <action id="Macro.Copy Line">
     <keyboard-shortcut first-keystroke="shift meta page_up" />
   </action>
@@ -232,12 +261,10 @@
   </action>
   <action id="Macro.Delete Line">
     <keyboard-shortcut first-keystroke="page_up" />
+    <keyboard-shortcut first-keystroke="home" />
   </action>
   <action id="Macro.Delete to start of text in line">
     <keyboard-shortcut first-keystroke="meta home" />
-  </action>
-  <action id="Macro.Paste Line">
-    <keyboard-shortcut first-keystroke="meta page_down" />
   </action>
   <action id="MaximizeToolWindow" />
   <action id="MethodDown" />
@@ -245,10 +272,10 @@
   <action id="MethodOverloadSwitchUp" />
   <action id="MethodUp" />
   <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="ctrl page_down" />
+    <keyboard-shortcut first-keystroke="ctrl end" />
   </action>
   <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="ctrl page_up" />
+    <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
@@ -284,6 +311,10 @@
     <keyboard-shortcut first-keystroke="ctrl meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
+  <action id="PropertyInspectorActions.RemoveProperty">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="meta alt f8" />
   </action>
@@ -315,6 +346,18 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
+  <action id="RunDashboard.RemoveConfiguration">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="RunDashboard.UngroupConfigurations">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="SafeDelete" />
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="ctrl meta g" />
     <keyboard-shortcut first-keystroke="shift meta d" />
@@ -361,5 +404,9 @@
   <action id="ViewSource" />
   <action id="XDebugger.CopyWatch" />
   <action id="XDebugger.JumpToSource" />
+  <action id="XDebugger.RemoveWatch">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
