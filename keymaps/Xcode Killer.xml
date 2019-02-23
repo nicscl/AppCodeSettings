@@ -264,6 +264,7 @@
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="button2" />
   </action>
+  <action id="JumpToLastWindow" />
   <action id="KotlinShellExecute" />
   <action id="Macro.Copy Line">
     <keyboard-shortcut first-keystroke="shift meta page_up" />
@@ -353,6 +354,10 @@
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="meta r" />
@@ -383,11 +388,23 @@
   <action id="SmartSelect">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
+  <action id="SmartStepInto">
+    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="Stop">
     <keyboard-shortcut first-keystroke="meta f2" />
