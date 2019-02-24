@@ -224,6 +224,9 @@
   <action id="Flutter.Toolbar.RestartAction">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
+  <action id="ForceStepInto">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -392,19 +395,17 @@
   <action id="SmartSelect">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
-  <action id="SmartStepInto">
-    <keyboard-shortcut first-keystroke="shift f7" />
-    <keyboard-shortcut first-keystroke="f9" />
-  </action>
+  <action id="SmartStepInto" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
-  <action id="StepInto" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="StepOut">
-    <keyboard-shortcut first-keystroke="shift f8" />
     <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="StepOver">
@@ -433,10 +434,6 @@
   </action>
   <action id="ToggleMethodBreakpoint">
     <keyboard-shortcut first-keystroke="f6" />
-  </action>
-  <action id="ToggleTemporaryLineBreakpoint">
-    <keyboard-shortcut first-keystroke="shift meta alt f8" />
-    <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
   <action id="Unsplit">
