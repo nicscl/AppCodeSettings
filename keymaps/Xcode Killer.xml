@@ -55,7 +55,9 @@
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.SelectRow" />
+  <action id="CopyElement" />
   <action id="DatabaseView.CopyAction" />
+  <action id="DatabaseView.CopyTable" />
   <action id="Debugger.RemoveArrayFilter">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
@@ -284,6 +286,7 @@
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MethodUp" />
+  <action id="Move" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl end" />
   </action>
@@ -301,6 +304,7 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
+  <action id="NextDiff" />
   <action id="NextEditorTab" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl meta back_slash" />
@@ -398,12 +402,12 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
+  <action id="StepInto" />
   <action id="StepOut">
     <keyboard-shortcut first-keystroke="shift f8" />
     <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="StepOver">
-    <keyboard-shortcut first-keystroke="f8" />
     <keyboard-shortcut first-keystroke="f10" />
   </action>
   <action id="Stop">
@@ -420,6 +424,21 @@
   <action id="ToggleCompletionHintsAction">
     <keyboard-shortcut first-keystroke="ctrl tab" />
   </action>
+  <action id="ToggleFieldBreakpoint">
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="ToggleLineBreakpoint">
+    <keyboard-shortcut first-keystroke="meta f8" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="ToggleMethodBreakpoint">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="ToggleTemporaryLineBreakpoint">
+    <keyboard-shortcut first-keystroke="shift meta alt f8" />
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
+  <action id="UML.ApplyCurrentLayout" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
   </action>
