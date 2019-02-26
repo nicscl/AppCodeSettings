@@ -221,6 +221,10 @@
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
   <action id="FindPrevious" />
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="Flutter.Toolbar.RestartAction">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
@@ -260,10 +264,6 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="ctrl meta alt space" />
-  </action>
-  <action id="ImplementMethods">
-    <keyboard-shortcut first-keystroke="ctrl i" />
-    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="IncrementWindowHeight" />
   <action id="Jdbc.OpenEditor.DDL">
