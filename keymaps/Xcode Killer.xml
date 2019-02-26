@@ -302,10 +302,10 @@
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="MoveTabDown">
-    <keyboard-shortcut first-keystroke="shift ctrl meta down" />
+    <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
   <action id="MoveTabRight">
-    <keyboard-shortcut first-keystroke="shift ctrl meta right" />
+    <keyboard-shortcut first-keystroke="ctrl meta right" />
   </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="meta n" />
@@ -400,10 +400,10 @@
   </action>
   <action id="SmartStepInto" />
   <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="ctrl meta down" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta right" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="ctrl meta right" />
+    <keyboard-shortcut first-keystroke="shift ctrl meta down" />
   </action>
   <action id="StepInto">
     <keyboard-shortcut first-keystroke="f9" />
