@@ -290,6 +290,9 @@
   <action id="MethodOverloadSwitchUp" />
   <action id="MethodUp" />
   <action id="Move" />
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl meta up" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl end" />
   </action>
