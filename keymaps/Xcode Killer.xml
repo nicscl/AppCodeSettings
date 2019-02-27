@@ -457,5 +457,8 @@
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="openAssertEqualsDiff" />
 </keymap>
