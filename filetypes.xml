@@ -4,6 +4,7 @@
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="customer_gateway.dart" type="Native" />
       <mapping pattern="package_get" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping ext="sdef" type="XML" />
     </extensionMap>
   </component>
