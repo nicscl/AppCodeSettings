@@ -7,6 +7,7 @@
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="calculate_dependencies" type="PLAIN_TEXT" />
       <mapping pattern="Fastfile" type="Ruby" />
+      <mapping pattern="Deliverfile" type="Ruby" />
       <mapping pattern="Appfile" type="Ruby" />
       <mapping pattern="Pluginfile" type="Ruby" />
       <mapping pattern="Matchfile" type="Ruby" />
