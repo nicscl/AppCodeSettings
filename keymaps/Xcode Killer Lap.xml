@@ -147,7 +147,9 @@
   <action id="EditorDeleteToWordStartInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
-  <action id="EditorDuplicate" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="meta right" />
   </action>
