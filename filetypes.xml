@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="xconfig" type="Bash" />
+      <mapping pattern=".flutter_settings" type="JSON" />
       <mapping pattern="customer_gateway.dart" type="Native" />
       <mapping pattern="calculate_dependencies" type="PLAIN_TEXT" />
       <mapping pattern="package_get" type="PLAIN_TEXT" />
