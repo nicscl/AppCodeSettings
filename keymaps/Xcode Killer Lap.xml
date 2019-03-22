@@ -126,9 +126,7 @@
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="end" />
   </action>
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="page_up" />
-  </action>
+  <action id="EditorDeleteLine" />
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="meta end" />
   </action>
@@ -278,6 +276,7 @@
   </action>
   <action id="Macro.Delete Line">
     <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="MaximizeToolWindow" />
   <action id="MethodDown" />
