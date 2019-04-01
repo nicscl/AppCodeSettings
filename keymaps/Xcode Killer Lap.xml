@@ -50,6 +50,9 @@
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
+  <action id="Console.Oracle.DbmsOutput">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.CompareCells" />
@@ -59,6 +62,9 @@
   <action id="CopyElement" />
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.CopyTable" />
+  <action id="Debugger.AddToWatch">
+    <keyboard-shortcut first-keystroke="meta f8" />
+  </action>
   <action id="Debugger.RemoveArrayFilter">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
@@ -227,9 +233,7 @@
   <action id="Flutter.Toolbar.RestartAction">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
-  <action id="ForceStepInto">
-    <keyboard-shortcut first-keystroke="f8" />
-  </action>
+  <action id="ForceStepInto" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -429,7 +433,6 @@
     <keyboard-shortcut first-keystroke="f7" />
   </action>
   <action id="ToggleLineBreakpoint">
-    <keyboard-shortcut first-keystroke="meta f8" />
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="ToggleMethodBreakpoint">
@@ -453,6 +456,9 @@
   <action id="XDebugger.RemoveWatch">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
+  <action id="XDebugger.SwitchWatchesInVariables">
+    <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="ctrl l" />
