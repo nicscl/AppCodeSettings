@@ -53,6 +53,7 @@
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.SelectRow" />
   <action id="CopyElement" />
@@ -266,6 +267,8 @@
     <keyboard-shortcut first-keystroke="ctrl meta alt space" />
   </action>
   <action id="IncrementWindowHeight" />
+  <action id="IntroduceField" />
+  <action id="IntroduceProperty" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="button2" />
   </action>
@@ -358,8 +361,12 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
-  <action id="Replace" />
-  <action id="ReplaceInPath" />
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="meta alt f" />
+  </action>
+  <action id="ReplaceInPath">
+    <keyboard-shortcut first-keystroke="shift meta alt f" />
+  </action>
   <action id="Rerun" />
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
