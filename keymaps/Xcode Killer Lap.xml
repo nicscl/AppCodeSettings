@@ -85,6 +85,10 @@
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="DomCollectionControl.Remove">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
@@ -103,6 +107,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="shift back_space" />
     <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="home" />
   </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift page_up" />
@@ -223,6 +228,10 @@
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
   <action id="Exit" />
+  <action id="ExternalSystem.DetachProject">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
   <action id="FindPrevious" />
@@ -261,6 +270,10 @@
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
+  <action id="GuiDesigner.DeleteGroup">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="GuiDesigner.Duplicate" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
@@ -279,7 +292,6 @@
     <keyboard-shortcut first-keystroke="meta page_up" />
   </action>
   <action id="Macro.Delete Line">
-    <keyboard-shortcut first-keystroke="home" />
     <keyboard-shortcut first-keystroke="page_up" />
   </action>
   <action id="MaximizeToolWindow" />
@@ -441,6 +453,10 @@
   <action id="UML.ApplyCurrentLayout" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="UsageView.Exclude">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="Vcs.EditSource" />
   <action id="Vcs.Log.FocusTextFilter" />
