@@ -13,7 +13,7 @@
   </action>
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="meta t" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Alias.Rule.Remove">
@@ -266,6 +266,7 @@
   <action id="GotoPrevElementUnderCaretUsage" />
   <action id="GotoRelated" />
   <action id="GotoSuperMethod" />
+  <action id="GotoTest" />
   <action id="Graph.Delete">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
@@ -279,6 +280,7 @@
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="ctrl meta alt space" />
   </action>
+  <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="button2" />
@@ -387,6 +389,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
+  <action id="RunDashboard.ShowConfigurations" />
   <action id="RunDashboard.UngroupConfigurations">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
