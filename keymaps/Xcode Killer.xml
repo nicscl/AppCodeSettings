@@ -189,6 +189,7 @@
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta e" />
+    <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorTextEnd">
@@ -206,12 +207,11 @@
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="EditorToggleCase">
-    <keyboard-shortcut first-keystroke="shift meta u" />
-    <keyboard-shortcut first-keystroke="ctrl up" />
-    <keyboard-shortcut first-keystroke="ctrl down" />
+    <keyboard-shortcut first-keystroke="shift escape" />
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift meta e" />
+    <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
@@ -263,6 +263,7 @@
   <action id="GuiDesigner.Duplicate">
     <keyboard-shortcut first-keystroke="end" />
   </action>
+  <action id="HideActiveWindow" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="ctrl meta alt space" />
