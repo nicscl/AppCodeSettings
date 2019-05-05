@@ -5,6 +5,7 @@
     <option name="isWizardShown" value="true" />
     <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="useMaterialFont2" value="true" />
     <option name="tabOpacity" value="11" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="CUSTOM" />
