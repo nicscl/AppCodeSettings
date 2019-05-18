@@ -47,6 +47,10 @@
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="CodeCompletion" />
+  <action id="CollapseAll" />
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
@@ -221,6 +225,10 @@
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
   <action id="Exit" />
+  <action id="ExpandAll" />
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
   <action id="FindPrevious" />
