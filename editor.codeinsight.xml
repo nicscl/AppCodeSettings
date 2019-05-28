@@ -1,0 +1,6 @@
+<application>
+  <component name="ElixirFoldingSettings">
+    <option name="COLLAPSE_ELIXIR_MODULE_DIRECTIVE_GROUPS" value="true" />
+    <option name="REPLACE_MODULE_ATTRIBUTES_WITH_VALUES" value="true" />
+  </component>
+</application>
