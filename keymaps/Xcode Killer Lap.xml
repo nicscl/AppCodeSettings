@@ -57,9 +57,11 @@
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.DeleteRows" />
+  <action id="Console.TableResult.NavigateAction" />
   <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.SelectRow" />
   <action id="CopyElement" />
+  <action id="DSM.OpenInEditor" />
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.CopyTable" />
   <action id="Debugger.AddToWatch">
@@ -94,9 +96,7 @@
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="DuplicatesForm.SendToRight" />
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="ctrl alt down" />
-  </action>
+  <action id="EditSource" />
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
@@ -254,6 +254,7 @@
   </action>
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
@@ -334,6 +335,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl alt period" />
   </action>
+  <action id="OpenModuleSettings" />
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="ctrl meta p" />
     <keyboard-shortcut first-keystroke="ctrl meta quote" />
