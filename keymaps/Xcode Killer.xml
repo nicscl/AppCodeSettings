@@ -366,10 +366,6 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-    <keyboard-shortcut first-keystroke="meta s" />
-  </action>
   <action id="Refresh" />
   <action id="RemoteHostView.EditSource" />
   <action id="RemoteHostView.Rename">
