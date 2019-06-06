@@ -236,9 +236,7 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
-  <action id="Flutter.Toolbar.RestartAction">
-    <keyboard-shortcut first-keystroke="shift meta s" />
-  </action>
+  <action id="Flutter.Toolbar.RestartAction" />
   <action id="ForceStepInto">
     <keyboard-shortcut first-keystroke="f8" />
   </action>
@@ -366,6 +364,10 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="Refresh" />
   <action id="RemoteHostView.EditSource" />
   <action id="RemoteHostView.Rename">
@@ -479,6 +481,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
+  <action id="com.dubreuia.core.action.ShortcutAction" />
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
