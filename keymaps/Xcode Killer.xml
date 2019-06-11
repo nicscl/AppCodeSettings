@@ -12,9 +12,7 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="shift meta t" />
-  </action>
+  <action id="ActivateTerminalToolWindow" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Alias.Rule.Remove">
     <keyboard-shortcut first-keystroke="back_space" />
