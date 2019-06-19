@@ -1,4 +1,4 @@
-<keymap version="1" name="Xcode Killer" parent="Mac OS X 10.5+">
+<keymap version="1" name="Xcode Killer Lap" parent="Mac OS X 10.5+">
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="meta x" />
     <keyboard-shortcut first-keystroke="shift delete" />
@@ -12,7 +12,9 @@
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateTerminalToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Alias.Rule.Remove">
     <keyboard-shortcut first-keystroke="back_space" />
@@ -45,17 +47,16 @@
     <keyboard-shortcut first-keystroke="meta u" />
   </action>
   <action id="CodeCompletion" />
-  <action id="CollapseAll" />
-  <action id="CollapseExpandableComponent">
-    <keyboard-shortcut first-keystroke="shift enter" />
-  </action>
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
+  <action id="Console.Oracle.DbmsOutput">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.CompareCells" />
-  <action id="Console.TableResult.EditFilterCriteria" />
+  <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.NavigateAction" />
   <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.SelectRow" />
@@ -63,6 +64,9 @@
   <action id="DSM.OpenInEditor" />
   <action id="DatabaseView.CopyAction" />
   <action id="DatabaseView.CopyTable" />
+  <action id="Debugger.AddToWatch">
+    <keyboard-shortcut first-keystroke="meta f8" />
+  </action>
   <action id="Debugger.RemoveArrayFilter">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
@@ -83,6 +87,10 @@
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="DomCollectionControl.Remove">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
+  </action>
   <action id="DomElementsTreeView.DeleteElement">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
@@ -99,6 +107,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="shift back_space" />
     <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="home" />
   </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift page_up" />
@@ -126,31 +135,29 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorDelete">
-    <keyboard-shortcut first-keystroke="page_down" />
+    <keyboard-shortcut first-keystroke="end" />
   </action>
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="alt home" />
-  </action>
+  <action id="EditorDeleteLine" />
   <action id="EditorDeleteToLineEnd">
-    <keyboard-shortcut first-keystroke="meta page_down" />
+    <keyboard-shortcut first-keystroke="meta end" />
   </action>
   <action id="EditorDeleteToLineStart">
-    <keyboard-shortcut first-keystroke="meta delete" />
+    <keyboard-shortcut first-keystroke="meta home" />
   </action>
   <action id="EditorDeleteToWordEnd">
-    <keyboard-shortcut first-keystroke="alt page_down" />
+    <keyboard-shortcut first-keystroke="alt end" />
   </action>
   <action id="EditorDeleteToWordEndInDifferentHumpsMode">
-    <keyboard-shortcut first-keystroke="ctrl page_down" />
+    <keyboard-shortcut first-keystroke="ctrl end" />
   </action>
   <action id="EditorDeleteToWordStart">
-    <keyboard-shortcut first-keystroke="alt delete" />
+    <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="EditorDeleteToWordStartInDifferentHumpsMode">
-    <keyboard-shortcut first-keystroke="ctrl delete" />
+    <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
   <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="page_down" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="meta right" />
@@ -191,7 +198,6 @@
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta e" />
-    <keyboard-shortcut first-keystroke="shift ctrl up" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorTextEnd">
@@ -209,13 +215,12 @@
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
   <action id="EditorToggleCase">
-    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="shift meta u" />
     <keyboard-shortcut first-keystroke="ctrl up" />
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift meta e" />
-    <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
@@ -223,9 +228,9 @@
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
   <action id="Exit" />
-  <action id="ExpandAll" />
-  <action id="ExpandExpandableComponent">
-    <keyboard-shortcut first-keystroke="shift enter" />
+  <action id="ExternalSystem.DetachProject">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
@@ -234,10 +239,10 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
-  <action id="Flutter.Toolbar.RestartAction" />
-  <action id="ForceStepInto">
-    <keyboard-shortcut first-keystroke="f8" />
+  <action id="Flutter.Toolbar.RestartAction">
+    <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
+  <action id="ForceStepInto" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
@@ -254,6 +259,7 @@
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="meta alt b" />
     <mouse-shortcut keystroke="meta alt button1" />
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
   </action>
   <action id="GotoLine" />
@@ -266,18 +272,17 @@
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
-  <action id="GuiDesigner.Duplicate">
-    <keyboard-shortcut first-keystroke="end" />
+  <action id="GuiDesigner.DeleteGroup">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
-  <action id="HideActiveWindow" />
+  <action id="GuiDesigner.Duplicate" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
     <keyboard-shortcut first-keystroke="ctrl meta alt space" />
   </action>
   <action id="Images.ShowThumbnails" />
   <action id="IncrementWindowHeight" />
-  <action id="IntroduceField" />
-  <action id="IntroduceProperty" />
   <action id="Jdbc.OpenEditor.DDL">
     <mouse-shortcut keystroke="button2" />
   </action>
@@ -291,10 +296,6 @@
   </action>
   <action id="Macro.Delete Line">
     <keyboard-shortcut first-keystroke="page_up" />
-    <keyboard-shortcut first-keystroke="home" />
-  </action>
-  <action id="Macro.Delete to start of text in line">
-    <keyboard-shortcut first-keystroke="meta home" />
   </action>
   <action id="MaximizeToolWindow" />
   <action id="MethodDown" />
@@ -306,10 +307,10 @@
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
   <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="ctrl end" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="ctrl home" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
@@ -362,10 +363,6 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta alt l" />
-    <keyboard-shortcut first-keystroke="shift meta s" />
-  </action>
   <action id="Refresh" />
   <action id="RemoteHostView.EditSource" />
   <action id="RemoteHostView.Rename">
@@ -375,12 +372,8 @@
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
-  <action id="Replace">
-    <keyboard-shortcut first-keystroke="meta alt f" />
-  </action>
-  <action id="ReplaceInPath">
-    <keyboard-shortcut first-keystroke="shift meta alt f" />
-  </action>
+  <action id="Replace" />
+  <action id="ReplaceInPath" />
   <action id="Rerun" />
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
@@ -406,6 +399,9 @@
   <action id="SafeDelete" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="ctrl meta g" />
@@ -454,7 +450,6 @@
     <keyboard-shortcut first-keystroke="f7" />
   </action>
   <action id="ToggleLineBreakpoint">
-    <keyboard-shortcut first-keystroke="meta f8" />
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="ToggleMethodBreakpoint">
@@ -463,6 +458,10 @@
   <action id="UML.ApplyCurrentLayout" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="UsageView.Exclude">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="Vcs.EditSource" />
   <action id="Vcs.Log.FocusTextFilter" />
@@ -479,7 +478,9 @@
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
-  <action id="com.dubreuia.core.action.ShortcutAction" />
+  <action id="XDebugger.SwitchWatchesInVariables">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>

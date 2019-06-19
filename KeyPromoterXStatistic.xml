@@ -1,27 +1,11 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
-      <Statistic Action="Messages">
-        <Item>
-          <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
-          <ShortCut>'⌘0'</ShortCut>
-          <Description>Messages</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Run 'Pleni-Development-Universal'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R' or '⌘R'</ShortCut>
           <Description>Run 'Pleni-Development-Universal'</Description>
-          <Count>1</Count>
-        </Item>
-      </Statistic>
-      <Statistic Action="Stop 'Pleni-Development-Universal'">
-        <Item>
-          <IdeaActionID>Stop</IdeaActionID>
-          <ShortCut>'⌘F2' or '⌃C'</ShortCut>
-          <Description>Stop 'Pleni-Development-Universal'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>

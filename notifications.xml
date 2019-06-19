@@ -1,5 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Dart Analysis" displayType="NONE" shouldLog="false" />
+    <notification groupId="Framework Detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Plugins Suggestion" displayType="NONE" shouldLog="false" />
   </component>
 </application>
