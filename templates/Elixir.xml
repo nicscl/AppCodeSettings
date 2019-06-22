@@ -1,0 +1,6 @@
+<templateSet group="Elixir">
+  <template name="@doc" value="@doc &quot;&quot;&quot;&#10;$1$&#10;&quot;&quot;&quot;&#10;$END$" description="@doc &quot;&quot;&quot; ... &quot;&quot;&quot;" toReformat="true" toShortenFQNames="true">
+    <variable name="1" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
