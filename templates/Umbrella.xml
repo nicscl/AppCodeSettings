@@ -1,5 +1,5 @@
 <templateSet group="Umbrella">
-  <template name="dlw" value="|&gt; Dlog.warn(:$atom$)" toReformat="false" toShortenFQNames="true">
+  <template name="dlw" value="|&gt; Dlog.warn(:$atom$)" description="" toReformat="false" toShortenFQNames="true">
     <variable name="atom" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="ELIXIR_CODE" value="true" />
