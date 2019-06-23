@@ -142,6 +142,7 @@
   </action>
   <action id="EditorDeleteToWordEndInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
+    <keyboard-shortcut first-keystroke="ctrl end" />
   </action>
   <action id="EditorDeleteToWordStart">
     <keyboard-shortcut first-keystroke="alt delete" />
@@ -210,7 +211,6 @@
   </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="shift escape" />
-    <keyboard-shortcut first-keystroke="ctrl up" />
     <keyboard-shortcut first-keystroke="ctrl down" />
   </action>
   <action id="EditorUnSelectWord">
@@ -306,10 +306,11 @@
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
   <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="ctrl end" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="ctrl home" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
@@ -446,6 +447,10 @@
   </action>
   <action id="TableResult.GrowSelection">
     <keyboard-shortcut first-keystroke="meta e" />
+  </action>
+  <action id="ToggleCamelSnakeCase">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+    <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id="ToggleCompletionHintsAction">
     <keyboard-shortcut first-keystroke="ctrl tab" />
