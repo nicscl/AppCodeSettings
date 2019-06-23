@@ -125,9 +125,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="EditorDelete">
-    <keyboard-shortcut first-keystroke="page_down" />
-  </action>
+  <action id="EditorDelete" />
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="alt home" />
   </action>
@@ -152,6 +150,7 @@
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="page_down" />
   </action>
   <action id="EditorLineEnd">
     <keyboard-shortcut first-keystroke="meta right" />
@@ -407,6 +406,9 @@
   <action id="SafeDelete" />
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="meta up" />
   </action>
   <action id="SelectAllOccurrences">
     <keyboard-shortcut first-keystroke="ctrl meta g" />
