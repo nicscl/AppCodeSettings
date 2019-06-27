@@ -55,6 +55,7 @@
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.NavigateAction" />
   <action id="Console.TableResult.Reload" />
@@ -126,17 +127,17 @@
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="EditorDelete" />
-  <action id="EditorDeleteLine">
-    <keyboard-shortcut first-keystroke="alt home" />
-  </action>
+  <action id="EditorDeleteLine" />
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="meta page_down" />
+    <keyboard-shortcut first-keystroke="meta end" />
   </action>
   <action id="EditorDeleteToLineStart">
     <keyboard-shortcut first-keystroke="meta delete" />
   </action>
   <action id="EditorDeleteToWordEnd">
     <keyboard-shortcut first-keystroke="alt page_down" />
+    <keyboard-shortcut first-keystroke="alt end" />
   </action>
   <action id="EditorDeleteToWordEndInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl page_down" />
@@ -144,9 +145,11 @@
   </action>
   <action id="EditorDeleteToWordStart">
     <keyboard-shortcut first-keystroke="alt delete" />
+    <keyboard-shortcut first-keystroke="alt home" />
   </action>
   <action id="EditorDeleteToWordStartInDifferentHumpsMode">
     <keyboard-shortcut first-keystroke="ctrl delete" />
+    <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="end" />
@@ -308,7 +311,6 @@
     <keyboard-shortcut first-keystroke="ctrl page_down" />
   </action>
   <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="ctrl home" />
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
   <action id="MoveStatementDown" />
