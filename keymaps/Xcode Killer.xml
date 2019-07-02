@@ -140,7 +140,6 @@
     <keyboard-shortcut first-keystroke="alt end" />
   </action>
   <action id="EditorDeleteToWordEndInDifferentHumpsMode">
-    <keyboard-shortcut first-keystroke="ctrl page_down" />
     <keyboard-shortcut first-keystroke="ctrl end" />
   </action>
   <action id="EditorDeleteToWordStart">
