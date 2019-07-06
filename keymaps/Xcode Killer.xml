@@ -28,7 +28,6 @@
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
   <action id="Back">
-    <keyboard-shortcut first-keystroke="meta open_bracket" />
     <keyboard-shortcut first-keystroke="meta alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
@@ -240,7 +239,6 @@
     <keyboard-shortcut first-keystroke="f8" />
   </action>
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="meta close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
@@ -329,6 +327,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta back_slash" />
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
     <keyboard-shortcut first-keystroke="shift meta back_slash" />
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
   </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -341,6 +340,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta quote" />
     <keyboard-shortcut first-keystroke="shift meta quote" />
     <keyboard-shortcut first-keystroke="shift meta p" />
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="PreviousEditorTab" />
   <action id="PreviousTab">
