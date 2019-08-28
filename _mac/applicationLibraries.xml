@@ -7,6 +7,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/actioncable-5.2.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/actioncable-5.2.1/lib" />
       </SOURCES>
@@ -18,6 +19,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/actionmailer-5.2.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/actionmailer-5.2.1/lib" />
       </SOURCES>
@@ -29,6 +31,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/actionpack-5.2.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/actionpack-5.2.1/lib" />
       </SOURCES>
@@ -40,6 +43,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/actionview-5.2.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/actionview-5.2.1/lib" />
       </SOURCES>
@@ -51,6 +55,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activejob-5.2.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activejob-5.2.1/lib" />
       </SOURCES>
@@ -62,6 +67,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activemodel-5.2.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activemodel-5.2.1/lib" />
       </SOURCES>
@@ -74,6 +80,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-5.2.1/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-5.2.1/examples" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-5.2.1/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activerecord-5.2.1/examples" />
@@ -92,6 +99,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activestorage-5.2.1/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activestorage-5.2.1/config" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activestorage-5.2.1/db" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activestorage-5.2.1/app" />
@@ -110,6 +118,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-4.2.10/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-4.2.10/lib" />
       </SOURCES>
@@ -121,6 +130,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-4.2.11.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-4.2.11.1/lib" />
       </SOURCES>
@@ -132,6 +142,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-5.2.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/activesupport-5.2.1/lib" />
       </SOURCES>
@@ -146,6 +157,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/addressable-2.6.0/spec" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/addressable-2.6.0/tasks" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/addressable-2.6.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/addressable-2.6.0/data" />
@@ -165,6 +177,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/arel-9.0.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/arel-9.0.0/lib" />
       </SOURCES>
@@ -177,6 +190,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.2/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.2/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.2/lib" />
@@ -193,6 +207,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.3/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.3/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.3/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/atomos-0.1.3/lib" />
@@ -209,6 +224,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/babosa-1.0.2/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/babosa-1.0.2/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/babosa-1.0.2/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/babosa-1.0.2/spec" />
@@ -222,6 +238,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="builder (v3.2.3, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -234,6 +251,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/builder-3.2.3/test" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/builder-3.2.3/rakelib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/builder-3.2.3/doc" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/builder-3.2.3/lib" />
@@ -255,6 +273,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/bundler-1.16.4/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/bundler-1.16.4/man" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/bundler-1.16.4/exe" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/bundler-1.16.4/lib" />
@@ -272,6 +291,7 @@
       <CLASSES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.2.8/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/CFPropertyList-2.2.8/lib" />
       </SOURCES>
@@ -283,6 +303,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/CFPropertyList-3.0.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/CFPropertyList-3.0.0/lib" />
       </SOURCES>
@@ -294,6 +315,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/circleci-2.0.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/circleci-2.0.2/lib" />
       </SOURCES>
@@ -305,6 +327,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/claide-1.0.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/claide-1.0.2/lib" />
       </SOURCES>
@@ -317,6 +340,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.5.3/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.5.3/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.5.3/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.5.3/lib" />
@@ -333,6 +357,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.0.beta.2/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.0.beta.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.0.beta.2/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.0.beta.2/lib" />
@@ -349,6 +374,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-1.6.1/lib" />
@@ -364,6 +390,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-core-1.5.3/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-core-1.5.3/lib" />
       </SOURCES>
@@ -375,6 +402,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-core-1.6.0.beta.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-core-1.6.0.beta.2/lib" />
       </SOURCES>
@@ -386,6 +414,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-core-1.6.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-core-1.6.1/lib" />
       </SOURCES>
@@ -397,6 +426,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-deintegrate-1.0.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-deintegrate-1.0.2/lib" />
       </SOURCES>
@@ -408,6 +438,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-deintegrate-1.0.3/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-deintegrate-1.0.3/lib" />
       </SOURCES>
@@ -419,6 +450,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-downloader-1.2.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-downloader-1.2.1/lib" />
       </SOURCES>
@@ -430,6 +462,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-downloader-1.2.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-downloader-1.2.2/lib" />
       </SOURCES>
@@ -444,6 +477,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-playgrounds-1.2.2/spec" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-playgrounds-1.2.2/README_images" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-playgrounds-1.2.2/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-playgrounds-1.2.2/lib" />
@@ -464,6 +498,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-plugins-1.0.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-plugins-1.0.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-plugins-1.0.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-plugins-1.0.0/spec" />
@@ -480,6 +515,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-search-1.0.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-search-1.0.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-search-1.0.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-search-1.0.0/spec" />
@@ -496,6 +532,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-stats-1.0.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-stats-1.0.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-stats-1.0.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-stats-1.0.0/spec" />
@@ -512,6 +549,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-stats-1.1.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-stats-1.1.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-stats-1.1.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-stats-1.1.0/spec" />
@@ -528,6 +566,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.0/spec" />
@@ -544,6 +583,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.1/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.1/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.1/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-trunk-1.3.1/spec" />
@@ -560,6 +600,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-try-1.1.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-try-1.1.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-try-1.1.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/cocoapods-try-1.1.0/spec" />
@@ -576,6 +617,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/colored-1.2/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/colored-1.2/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/colored-1.2/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/colored-1.2/test" />
@@ -592,6 +634,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/colored2-3.1.2/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/colored2-3.1.2/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/colored2-3.1.2/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/colored2-3.1.2/spec" />
@@ -609,6 +652,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/commander-fastlane-4.4.6/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/commander-fastlane-4.4.6/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/commander-fastlane-4.4.6/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/commander-fastlane-4.4.6/lib" />
@@ -626,6 +670,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.0.5/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.0.5/lib" />
       </SOURCES>
@@ -638,6 +683,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.1.5/ext" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.1.5/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.1.5/ext" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/concurrent-ruby-1.1.5/lib" />
@@ -654,6 +700,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/crass-1.0.4/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/crass-1.0.4/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/crass-1.0.4/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/crass-1.0.4/test" />
@@ -670,6 +717,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/declarative-0.0.10/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/declarative-0.0.10/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/declarative-0.0.10/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/declarative-0.0.10/test" />
@@ -686,6 +734,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/declarative-option-0.1.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/declarative-option-0.1.0/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/declarative-option-0.1.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/declarative-option-0.1.0/test" />
@@ -705,6 +754,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/did_you_mean-1.0.0/benchmark" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/did_you_mean-1.0.0/evaluation" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/did_you_mean-1.0.0/doc" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/did_you_mean-1.0.0/lib" />
@@ -727,6 +777,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/digest-crc-0.4.1/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/digest-crc-0.4.1/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/digest-crc-0.4.1/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/digest-crc-0.4.1/spec" />
@@ -781,6 +832,19 @@
         <root url="file:///usr/local/Cellar/erlang/21.3.3/lib/erlang/lib/otp_mibs-1.2.1/ebin" />
         <root url="file:///usr/local/Cellar/erlang/21.3.3/lib/erlang/lib/ssl-9.2.1/ebin" />
       </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Elixir 1.8.2">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.asdf/installs/elixir/1.8.2-otp-21/lib/logger/ebin" />
+        <root url="file://$USER_HOME$/.asdf/installs/elixir/1.8.2-otp-21/lib/elixir/ebin" />
+        <root url="file://$USER_HOME$/.asdf/installs/elixir/1.8.2-otp-21/lib/ex_unit/ebin" />
+        <root url="file://$USER_HOME$/.asdf/installs/elixir/1.8.2-otp-21/lib/mix/ebin" />
+        <root url="file://$USER_HOME$/.asdf/installs/elixir/1.8.2-otp-21/lib/eex/ebin" />
+        <root url="file://$USER_HOME$/.asdf/installs/elixir/1.8.2-otp-21/lib/iex/ebin" />
+      </CLASSES>
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="erubi (v1.7.1, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -791,6 +855,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/erubi-1.7.1/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/erubi-1.7.1/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/erubi-1.7.1/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/erubi-1.7.1/test" />
@@ -807,6 +872,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/escape-0.0.4/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/escape-0.0.4/doc_include" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/escape-0.0.4/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/escape-0.0.4/doc_include" />
@@ -826,6 +892,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/excon-0.62.0/tests" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/excon-0.62.0/benchmarks" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/excon-0.62.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/excon-0.62.0/data" />
@@ -848,6 +915,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/fourflusher-2.0.1/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/fourflusher-2.0.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/fourflusher-2.0.1/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/fourflusher-2.0.1/lib" />
@@ -864,6 +932,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/fourflusher-2.2.0/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/fourflusher-2.2.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/fourflusher-2.2.0/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/fourflusher-2.2.0/lib" />
@@ -882,6 +951,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/fuzzy_match-2.0.4/spec" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/fuzzy_match-2.0.4/benchmark" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/fuzzy_match-2.0.4/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/fuzzy_match-2.0.4/lib" />
@@ -902,6 +972,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/gh_inspector-1.1.3/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/gh_inspector-1.1.3/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/gh_inspector-1.1.3/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/gh_inspector-1.1.3/lib" />
@@ -917,6 +988,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/globalid-0.4.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/globalid-0.4.1/lib" />
       </SOURCES>
@@ -932,6 +1004,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/highline-1.7.10/test" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/highline-1.7.10/examples" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/highline-1.7.10/doc" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/highline-1.7.10/lib" />
@@ -955,6 +1028,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.5/test" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.5/gemfiles" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.5/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/i18n-0.9.5/test" />
@@ -970,6 +1044,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="json (v1.8.3.1, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -979,6 +1054,7 @@
       <CLASSES>
         <root url="file:///usr/lib/ruby/2.3.0/json/add" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/lib/ruby/2.3.0/json/add" />
       </SOURCES>
@@ -994,6 +1070,7 @@
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/ext" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/ext" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/libxml-ruby-2.9.0/lib" />
@@ -1011,6 +1088,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/loofah-2.2.2/test" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/loofah-2.2.2/benchmark" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/loofah-2.2.2/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/loofah-2.2.2/test" />
@@ -1028,6 +1106,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mail-2.7.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mail-2.7.0/lib" />
       </SOURCES>
@@ -1040,6 +1119,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/marcel-0.3.2/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/marcel-0.3.2/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/marcel-0.3.2/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/marcel-0.3.2/test" />
@@ -1056,6 +1136,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/method_source-0.9.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/method_source-0.9.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/method_source-0.9.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/method_source-0.9.0/spec" />
@@ -1073,6 +1154,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mimemagic-0.3.2/test" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mimemagic-0.3.2/script" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mimemagic-0.3.2/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mimemagic-0.3.2/test" />
@@ -1092,6 +1174,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mini_mime-1.0.1/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mini_mime-1.0.1/bench" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mini_mime-1.0.1/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mini_mime-1.0.1/lib" />
@@ -1111,6 +1194,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mini_portile2-2.3.0/test" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mini_portile2-2.3.0/concourse" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mini_portile2-2.3.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/mini_portile2-2.3.0/test" />
@@ -1129,6 +1213,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/minitest-5.11.3/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/minitest-5.11.3/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/minitest-5.11.3/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/minitest-5.11.3/test" />
@@ -1145,6 +1230,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/minitest-5.8.5/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/minitest-5.8.5/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/minitest-5.8.5/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/minitest-5.8.5/test" />
@@ -1160,6 +1246,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/molinillo-0.6.5/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/molinillo-0.6.5/lib" />
       </SOURCES>
@@ -1171,6 +1258,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/molinillo-0.6.6/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/molinillo-0.6.6/lib" />
       </SOURCES>
@@ -1183,6 +1271,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/multipart-post-2.0.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/multipart-post-2.0.0/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/multipart-post-2.0.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/multipart-post-2.0.0/test" />
@@ -1199,6 +1288,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.6/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.6/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.6/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nanaimo-0.2.6/lib" />
@@ -1215,6 +1305,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nap-1.1.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nap-1.1.0/support" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nap-1.1.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nap-1.1.0/support" />
@@ -1231,6 +1322,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/net-telnet-0.1.1/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/net-telnet-0.1.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/net-telnet-0.1.1/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/net-telnet-0.1.1/lib" />
@@ -1248,6 +1340,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/netrc-0.11.0/data" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/netrc-0.11.0/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/netrc-0.11.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/netrc-0.11.0/data" />
@@ -1269,6 +1362,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nio4r-2.3.1/tasks" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nio4r-2.3.1/examples" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nio4r-2.3.1/ext" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nio4r-2.3.1/lib" />
@@ -1293,6 +1387,7 @@
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/nokogiri-1.5.6/lib" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/nokogiri-1.5.6/tasks" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/nokogiri-1.5.6/bin" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/nokogiri-1.5.6/ext" />
@@ -1318,6 +1413,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nokogiri-1.8.4/patches" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nokogiri-1.8.4/suppressions" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nokogiri-1.8.4/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/nokogiri-1.8.4/ext" />
@@ -1343,6 +1439,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/plist-3.5.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/plist-3.5.0/lib" />
       </SOURCES>
@@ -1355,6 +1452,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/power_assert-0.2.6/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/power_assert-0.2.6/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/power_assert-0.2.6/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/power_assert-0.2.6/test" />
@@ -1373,6 +1471,7 @@
         <root url="file:///usr/lib/ruby/2.3.0/psych/handlers" />
         <root url="file:///usr/lib/ruby/2.3.0/psych/visitors" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/lib/ruby/2.3.0/psych/json" />
         <root url="file:///usr/lib/ruby/2.3.0/psych/nodes" />
@@ -1395,6 +1494,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/public_suffix-2.0.5/data" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/public_suffix-2.0.5/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/public_suffix-2.0.5/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/public_suffix-2.0.5/data" />
@@ -1416,6 +1516,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rack-2.0.5/contrib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rack-2.0.5/example" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rack-2.0.5/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rack-2.0.5/lib" />
@@ -1437,6 +1538,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rack-test-1.1.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rack-test-1.1.0/lib" />
       </SOURCES>
@@ -1446,6 +1548,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES />
+      <JAVADOC />
       <SOURCES />
     </library>
     <library name="rails-dom-testing (v2.0.3, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -1456,6 +1559,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rails-dom-testing-2.0.3/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rails-dom-testing-2.0.3/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rails-dom-testing-2.0.3/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rails-dom-testing-2.0.3/test" />
@@ -1472,6 +1576,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rails-html-sanitizer-1.0.4/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rails-html-sanitizer-1.0.4/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rails-html-sanitizer-1.0.4/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rails-html-sanitizer-1.0.4/test" />
@@ -1488,6 +1593,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/railties-5.2.1/exe" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/railties-5.2.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/railties-5.2.1/exe" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/railties-5.2.1/lib" />
@@ -1507,6 +1613,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-10.4.2/test" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-10.4.2/rakelib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-10.4.2/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-10.4.2/doc" />
@@ -1536,6 +1643,7 @@
         <root url="file:///usr/lib/ruby/2.3.0/rdoc/markdown" />
         <root url="file:///usr/lib/ruby/2.3.0/rdoc/generator" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///usr/lib/ruby/2.3.0/rdoc/rd" />
         <root url="file:///usr/lib/ruby/2.3.0/rdoc/ri" />
@@ -1567,6 +1675,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rouge-2.0.7/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rouge-2.0.7/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rouge-2.0.7/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rouge-2.0.7/lib" />
@@ -1582,6 +1691,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/ruby-macho-1.2.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/ruby-macho-1.2.0/lib" />
       </SOURCES>
@@ -1593,6 +1703,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/ruby-macho-1.3.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/ruby-macho-1.3.1/lib" />
       </SOURCES>
@@ -1604,6 +1715,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/ruby-macho-1.4.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/ruby-macho-1.4.0/lib" />
       </SOURCES>
@@ -1616,6 +1728,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/slack-notifier-2.3.2/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/slack-notifier-2.3.2/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/slack-notifier-2.3.2/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/slack-notifier-2.3.2/spec" />
@@ -1632,6 +1745,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/sprockets-3.7.2/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/sprockets-3.7.2/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/sprockets-3.7.2/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/sprockets-3.7.2/lib" />
@@ -1647,6 +1761,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/sprockets-rails-3.2.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/sprockets-rails-3.2.1/lib" />
       </SOURCES>
@@ -1661,6 +1776,7 @@
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.11/lib" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.11/tasks" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.11/ext" />
         <root url="file:///System/Library/Frameworks/Ruby.framework/Versions/2.3/usr/lib/ruby/gems/2.3.0/gems/sqlite3-1.3.11/faq" />
@@ -1682,6 +1798,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/terminal-notifier-1.8.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/terminal-notifier-1.8.0/vendor" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/terminal-notifier-1.8.0/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/terminal-notifier-1.8.0/lib" />
@@ -1699,6 +1816,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/terminal-table-1.8.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/terminal-table-1.8.0/examples" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/terminal-table-1.8.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/terminal-table-1.8.0/examples" />
@@ -1717,6 +1835,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/test-unit-3.1.5/test" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/test-unit-3.1.5/sample" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/test-unit-3.1.5/doc" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/test-unit-3.1.5/lib" />
@@ -1737,6 +1856,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/thor-0.20.0/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/thor-0.20.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/thor-0.20.0/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/thor-0.20.0/lib" />
@@ -1757,6 +1877,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/thread_safe-0.3.6/examples" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/thread_safe-0.3.6/yard-template" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/thread_safe-0.3.6/ext" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/thread_safe-0.3.6/lib" />
@@ -1782,6 +1903,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-cursor-0.6.1/spec" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-cursor-0.6.1/tasks" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-cursor-0.6.1/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-cursor-0.6.1/spec" />
@@ -1801,6 +1923,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-screen-0.6.5/spec" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-screen-0.6.5/tasks" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-screen-0.6.5/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-screen-0.6.5/spec" />
@@ -1821,6 +1944,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-spinner-0.9.0/tasks" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-spinner-0.9.0/examples" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-spinner-0.9.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tty-spinner-0.9.0/spec" />
@@ -1841,6 +1965,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.5/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.5/test" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.5/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/tzinfo-1.2.5/test" />
@@ -1857,6 +1982,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/unicode-display_width-1.5.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/unicode-display_width-1.5.0/data" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/unicode-display_width-1.5.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/unicode-display_width-1.5.0/data" />
@@ -1873,6 +1999,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/websocket-driver-0.7.0/ext" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/websocket-driver-0.7.0/ext" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/websocket-driver-0.7.0/lib" />
@@ -1888,6 +2015,7 @@
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/websocket-extensions-0.1.3/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/websocket-extensions-0.1.3/lib" />
       </SOURCES>
@@ -1901,6 +2029,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/word_wrap-1.0.0/lib" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/word_wrap-1.0.0/spec" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/word_wrap-1.0.0/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/word_wrap-1.0.0/lib" />
@@ -1919,6 +2048,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.9/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.9/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.9/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.5.9/lib" />
@@ -1935,6 +2065,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.7.0/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.7.0/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.7.0/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.7.0/lib" />
@@ -1951,6 +2082,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.8.1/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.8.1/lib" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.8.1/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcodeproj-1.8.1/lib" />
@@ -1970,6 +2102,7 @@
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcpretty-0.3.0/assets" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcpretty-0.3.0/features" />
       </CLASSES>
+      <JAVADOC />
       <SOURCES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcpretty-0.3.0/bin" />
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/xcpretty-0.3.0/lib" />
