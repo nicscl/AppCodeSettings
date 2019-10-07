@@ -7,6 +7,7 @@
   <action id="$Delete">
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
+    <keyboard-shortcut first-keystroke="end" />
   </action>
   <action id="ActivateDartAnalysisToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
@@ -92,6 +93,9 @@
   <action id="Editor Cut">
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
   <action id="EditorAddOrRemoveCaret">
     <mouse-shortcut keystroke="meta button1" />
   </action>
@@ -99,6 +103,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="shift back_space" />
     <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="home" />
   </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift page_up" />
@@ -125,7 +130,9 @@
     <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="EditorDelete" />
+  <action id="EditorDelete">
+    <keyboard-shortcut first-keystroke="end" />
+  </action>
   <action id="EditorDeleteLine" />
   <action id="EditorDeleteToLineEnd">
     <keyboard-shortcut first-keystroke="meta page_down" />
@@ -150,7 +157,6 @@
     <keyboard-shortcut first-keystroke="ctrl home" />
   </action>
   <action id="EditorDuplicate">
-    <keyboard-shortcut first-keystroke="end" />
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
   <action id="EditorLineEnd">
@@ -265,9 +271,7 @@
     <keyboard-shortcut first-keystroke="back_space" />
     <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
-  <action id="GuiDesigner.Duplicate">
-    <keyboard-shortcut first-keystroke="end" />
-  </action>
+  <action id="GuiDesigner.Duplicate" />
   <action id="HideActiveWindow" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
@@ -290,7 +294,6 @@
   </action>
   <action id="Macro.Delete Line">
     <keyboard-shortcut first-keystroke="page_up" />
-    <keyboard-shortcut first-keystroke="home" />
   </action>
   <action id="Macro.Delete to start of text in line">
     <keyboard-shortcut first-keystroke="meta home" />
