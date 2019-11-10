@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="xconfig" type="Bash" />
       <mapping ext="leex" type="EEx" />
       <mapping ext="orig" type="Elixir file" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".flutter_settings" type="JSON" />
       <mapping pattern="customer_gateway.dart" type="Native" />
       <mapping pattern="calculate_dependencies" type="PLAIN_TEXT" />
@@ -18,8 +19,9 @@
       <mapping pattern="Appfile" type="Ruby" />
       <mapping pattern="Matchfile" type="Ruby" />
       <mapping ext="sdef" type="XML" />
-      <removed_mapping ext="leex" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".leex" approved="true" type="EEx" />
+      <removed_mapping ext="leex" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="xconfig" type="Bash" />
     </extensionMap>
   </component>
 </application>
