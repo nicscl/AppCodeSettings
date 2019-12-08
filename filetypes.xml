@@ -12,6 +12,7 @@
       <mapping pattern="package_get" type="PLAIN_TEXT" />
       <mapping pattern="set_development_ip.sh" type="PLAIN_TEXT" />
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
+      <mapping pattern="dumb" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping pattern="Deliverfile" type="Ruby" />
       <mapping pattern=".secrets" type="Ruby" />
