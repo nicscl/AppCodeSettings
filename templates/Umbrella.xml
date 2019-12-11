@@ -11,7 +11,7 @@
       <option name="ELIXIR_CODE" value="true" />
     </context>
   </template>
-  <template name="utils" value="alias CommonUtils.MapExtension, as: MapExt&#10;import CommonUtils.MapExtension.Pipes&#10;import CommonUtils.Praiao&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="utils" value="alias CommonUtils.MapExtension, as: MapExt&#10;import CommonUtils.MapExtension.Pipes&#10;import CommonUtils.MapExtension&#10;import CommonUtils.Praiao&#10;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="ELIXIR_CODE" value="true" />
     </context>
