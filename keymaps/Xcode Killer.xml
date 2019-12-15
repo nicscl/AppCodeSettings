@@ -59,6 +59,9 @@
   <action id="Console.TableResult.DeleteRows" />
   <action id="Console.TableResult.EditFilterCriteria" />
   <action id="Console.TableResult.NavigateAction" />
+  <action id="Console.TableResult.NavigateExportedAction">
+    <keyboard-shortcut first-keystroke="alt f7" />
+  </action>
   <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.SelectRow" />
   <action id="CopyElement" />
@@ -233,11 +236,11 @@
   </action>
   <action id="FileChooser.GotoDesktop" />
   <action id="FileChooser.GotoProject" />
-  <action id="FindPrevious" />
-  <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="alt f7" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="FindPrevious" />
   <action id="Flutter.Toolbar.RestartAction" />
   <action id="ForceStepInto">
     <keyboard-shortcut first-keystroke="f8" />
