@@ -52,6 +52,7 @@
   <action id="CompareTwoFiles" />
   <action id="Console.Execute.Multiline" />
   <action id="Console.Jdbc.Execute" />
+  <action id="Console.Jpa.GenerateSql" />
   <action id="Console.TableResult.CloneRow" />
   <action id="Console.TableResult.ColumnVisibility" />
   <action id="Console.TableResult.CompareCells" />
@@ -105,6 +106,7 @@
     <keyboard-shortcut first-keystroke="delete" />
     <keyboard-shortcut first-keystroke="home" />
   </action>
+  <action id="EditorChooseLookupItemCompleteStatement" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift page_up" />
     <keyboard-shortcut first-keystroke="shift home" />
@@ -116,20 +118,16 @@
   <action id="EditorCodeBlockEnd">
     <keyboard-shortcut first-keystroke="meta alt close_bracket" />
     <keyboard-shortcut first-keystroke="meta alt down" />
-    <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="EditorCodeBlockEndWithSelection">
     <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
     <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
-  <action id="EditorCodeBlockStart">
-    <keyboard-shortcut first-keystroke="meta alt open_bracket" />
-    <keyboard-shortcut first-keystroke="alt up" />
-  </action>
   <action id="EditorCodeBlockStartWithSelection">
     <keyboard-shortcut first-keystroke="shift meta alt open_bracket" />
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="EditorCompleteStatement" />
   <action id="EditorDelete">
     <keyboard-shortcut first-keystroke="end" />
   </action>
@@ -299,10 +297,14 @@
     <keyboard-shortcut first-keystroke="meta home" />
   </action>
   <action id="MaximizeToolWindow" />
-  <action id="MethodDown" />
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
-  <action id="MethodUp" />
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id="Move" />
   <action id="MoveEditorToOppositeTabGroup">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
@@ -336,6 +338,9 @@
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl meta close_bracket" />
     <keyboard-shortcut first-keystroke="ctrl alt period" />
+  </action>
+  <action id="OpenInBrowserGroup">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
   </action>
   <action id="OpenModuleSettings" />
   <action id="PrevSplitter">
@@ -424,6 +429,7 @@
   <action id="SendEOF" />
   <action id="ShowContent" />
   <action id="ShowNavBar" />
+  <action id="ShowSearchHistory" />
   <action id="SmartSelect">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
