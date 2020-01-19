@@ -16,4 +16,10 @@
       <option name="ELIXIR_CODE" value="true" />
     </context>
   </template>
+  <template name="ioin" value="|&gt; IO.inspect(label: :_____DEBUG_____$atom$)" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="atom" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="ELIXIR_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
