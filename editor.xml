@@ -13,4 +13,7 @@
     <option name="IS_DND_ENABLED" value="false" />
     <option name="REFRAIN_FROM_SCROLLING" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+  </component>
 </application>
