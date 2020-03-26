@@ -978,6 +978,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/autoprefixer-rails-9.7.4/.github" />
       </excluded>
     </library>
+    <library name="autoprefixer-rails (v9.7.5, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/autoprefixer-rails-9.7.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/autoprefixer-rails-9.7.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/autoprefixer-rails-9.7.5/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/autoprefixer-rails-9.7.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/autoprefixer-rails-9.7.5/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/autoprefixer-rails-9.7.5/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/autoprefixer-rails-9.7.5/spec" />
+      </excluded>
+    </library>
     <library name="aws-eventstream (v1.0.3, RVM: ruby-2.6.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -998,6 +1016,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/aws-partitions-1.286.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-partitions (v1.288.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/aws-partitions-1.288.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/aws-partitions-1.288.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v3.92.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
@@ -8659,6 +8688,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sidekiq-6.0.5/.circleci" />
       </excluded>
     </library>
+    <library name="sidekiq (v6.0.6, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sidekiq-6.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sidekiq-6.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sidekiq-6.0.6/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sidekiq-6.0.6/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sidekiq-6.0.6/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sidekiq-6.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sidekiq-6.0.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sidekiq-6.0.6/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sidekiq-6.0.6/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sidekiq-6.0.6/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sidekiq-6.0.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sidekiq-6.0.6/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sidekiq-6.0.6/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sidekiq-6.0.6/.circleci" />
+      </excluded>
+    </library>
     <library name="signet (v0.11.0, RVM: ruby-2.4.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -9868,6 +9922,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.0/package" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="webpacker (v5.0.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.1/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.1/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.1/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.1/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.1/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-5.0.1/gemfiles" />
       </excluded>
     </library>
     <library name="webrick (v1.4.2, RVM: ruby-2.5.1) [gem]" type="rubylib">
