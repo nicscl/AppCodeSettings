@@ -8770,6 +8770,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/spring-2.1.0/bin" />
       </excluded>
     </library>
+    <library name="spring (v2.1.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/spring-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/spring-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/spring-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/spring-2.1.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/spring-2.1.0/bin" />
+      </excluded>
+    </library>
     <library name="spring-watcher-listen (v2.0.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -8784,6 +8800,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/spring-watcher-listen-2.0.1/test" />
+      </excluded>
+    </library>
+    <library name="spring-watcher-listen (v2.0.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/spring-watcher-listen-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/spring-watcher-listen-2.0.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/spring-watcher-listen-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/spring-watcher-listen-2.0.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/spring-watcher-listen-2.0.1/test" />
       </excluded>
     </library>
     <library name="sprockets (v3.7.2, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -8906,6 +8938,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sqlite3-1.4.2/faq" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sqlite3-1.4.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sqlite3-1.4.2/rakelib" />
+      </excluded>
+    </library>
+    <library name="sqlite3 (v1.4.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sqlite3-1.4.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sqlite3-1.4.2/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sqlite3-1.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sqlite3-1.4.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sqlite3-1.4.2/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sqlite3-1.4.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sqlite3-1.4.2/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sqlite3-1.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sqlite3-1.4.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sqlite3-1.4.2/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sqlite3-1.4.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sqlite3-1.4.2/faq" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sqlite3-1.4.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/sqlite3-1.4.2/rakelib" />
       </excluded>
     </library>
     <library name="terminal-notifier (v1.8.0, ruby-2.3.7-p456) [gem]" type="rubylib">
@@ -9865,6 +9922,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/webpacker-4.2.2/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/webpacker-4.2.2/package" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/webpacker-4.2.2/gemfiles" />
+      </excluded>
+    </library>
+    <library name="webpacker (v4.2.2, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-4.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-4.2.2/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-4.2.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-4.2.2/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-4.2.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-4.2.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-4.2.2/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-4.2.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-4.2.2/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-4.2.2/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-4.2.2/docs" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-4.2.2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-4.2.2/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/webpacker-4.2.2/gemfiles" />
       </excluded>
     </library>
     <library name="webpacker (v5.0.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
