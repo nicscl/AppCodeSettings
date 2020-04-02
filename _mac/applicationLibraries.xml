@@ -1790,6 +1790,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/capybara-3.31.0/spec" />
       </excluded>
     </library>
+    <library name="capybara (v3.32.0, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/capybara-3.32.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/capybara-3.32.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/capybara-3.32.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/capybara-3.32.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/capybara-3.32.0/spec" />
+      </excluded>
+    </library>
     <library name="CFPropertyList (v3.0.0, ruby-2.3.7-p456) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -3527,6 +3543,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.0/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.0/examples" />
+      </excluded>
+    </library>
+    <library name="faraday (v1.0.1, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/faraday-1.0.1/examples" />
       </excluded>
     </library>
     <library name="faraday-cookie_jar (v0.0.6, RVM: ruby-2.4.2) [gem]" type="rubylib">
@@ -9809,6 +9844,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/unf_ext-0.0.7.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/unf_ext-0.0.7.6/test" />
+      </excluded>
+    </library>
+    <library name="unf_ext (v0.0.7.7, RVM: ruby-2.6.5) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/unf_ext-0.0.7.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/unf_ext-0.0.7.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/unf_ext-0.0.7.7/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/unf_ext-0.0.7.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/unf_ext-0.0.7.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/unf_ext-0.0.7.7/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/unf_ext-0.0.7.7/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.5/gems/unf_ext-0.0.7.7/test" />
       </excluded>
     </library>
     <library name="unicode-display_width (v1.5.0, ruby-2.3.7-p456) [gem]" type="rubylib">
