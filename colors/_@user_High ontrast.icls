@@ -1,9 +1,9 @@
 <scheme name="_@user_High сontrast" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-02-08T14:44:57</property>
+    <property name="created">2020-04-06T18:56:06</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2018.3.4.0.0</property>
-    <property name="modified">2020-03-26T20:11:19</property>
+    <property name="ideVersion">2019.2.4.0.0</property>
+    <property name="modified">2020-04-06T23:01:53</property>
     <property name="originalScheme">High сontrast</property>
   </metaInfo>
   <colors>
@@ -13,7 +13,7 @@
     <option name="CARET_ROW_COLOR" value="66" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="DELETED_LINES_COLOR" value="ffa14f" />
-    <option name="DOCUMENTATION_COLOR" value="40174d" />
+    <option name="DOCUMENTATION_COLOR" value="281a33" />
     <option name="ERROR_HINT" value="800002" />
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />
@@ -23,7 +23,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="ab7967" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="c3e88d" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e88d" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="62cc47" />
     <option name="FILESTATUS_MERGED" value="c792ea" />
     <option name="FILESTATUS_MODIFIED" value="80cbc4" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
@@ -51,6 +51,31 @@
     <option name="SELECTION_BACKGROUND" value="6280" />
     <option name="SEPARATOR_BELOW_COLOR" value="808080" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="ffffff" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="0" />
+    <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ffffffbe" />
+    <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="e6e6e65a" />
+    <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="0" />
+    <option name="ScrollBar.Mac.Transparent.thumbColor" value="ffffffbe" />
+    <option name="ScrollBar.Mac.Transparent.trackColor" value="e6e6e65a" />
+    <option name="ScrollBar.Mac.hoverThumbBorderColor" value="0" />
+    <option name="ScrollBar.Mac.hoverThumbColor" value="ffffffbe" />
+    <option name="ScrollBar.Mac.hoverTrackColor" value="0" />
+    <option name="ScrollBar.Mac.thumbBorderColor" value="0" />
+    <option name="ScrollBar.Mac.thumbColor" value="ffffffbe" />
+    <option name="ScrollBar.Mac.trackColor" value="0" />
+    <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="0" />
+    <option name="ScrollBar.Transparent.hoverThumbColor" value="ffffffbe" />
+    <option name="ScrollBar.Transparent.hoverTrackColor" value="e6e6e65a" />
+    <option name="ScrollBar.Transparent.thumbBorderColor" value="0" />
+    <option name="ScrollBar.Transparent.thumbColor" value="ffffffbe" />
+    <option name="ScrollBar.Transparent.trackColor" value="e6e6e60" />
+    <option name="ScrollBar.background" value="0" />
+    <option name="ScrollBar.hoverThumbBorderColor" value="0" />
+    <option name="ScrollBar.hoverThumbColor" value="ffffffbe" />
+    <option name="ScrollBar.hoverTrackColor" value="0" />
+    <option name="ScrollBar.thumbBorderColor" value="0" />
+    <option name="ScrollBar.thumbColor" value="ffffffbe" />
+    <option name="ScrollBar.trackColor" value="0" />
     <option name="TEARLINE_COLOR" value="999999" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="143d00" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="452800" />
@@ -65,6 +90,7 @@
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value />
     </option>
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff0d25" />
@@ -446,6 +472,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HAML_RUBY_CODE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -516,6 +543,8 @@
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
     </option>
@@ -556,6 +585,7 @@
         <option name="BACKGROUND" value="153811" />
       </value>
     </option>
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LESS_VARIABLE">
       <value />
     </option>
@@ -627,6 +657,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
     <option name="SASS_MIXIN">
       <value />
     </option>
@@ -722,7 +753,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="734900" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="804a00" />
         <option name="ERROR_STRIPE_COLOR" value="ffb300" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
