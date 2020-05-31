@@ -13,6 +13,7 @@
       <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="dumb" type="PLAIN_TEXT" />
       <mapping pattern="Makefile_umbrella" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="Deliverfile" type="Ruby" />
