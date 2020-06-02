@@ -8,6 +8,7 @@
       <mapping pattern="set_development_ip.sh" type="PLAIN_TEXT" />
       <mapping pattern="calculate_dependencies" type="PLAIN_TEXT" />
       <mapping pattern="dumb" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerfile_dev" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="sdef" type="XML" />
       <removed_mapping pattern=".leex" approved="true" type="EEx" />
