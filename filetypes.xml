@@ -18,6 +18,7 @@
       <mapping ext="env" type="PLAIN_TEXT" />
       <mapping pattern="Deliverfile" type="Ruby" />
       <mapping pattern=".secrets" type="Ruby" />
+      <mapping pattern="Podfile" type="Ruby" />
       <mapping pattern="Fastfile" type="Ruby" />
       <mapping pattern="Pluginfile" type="Ruby" />
       <mapping pattern="Appfile" type="Ruby" />
