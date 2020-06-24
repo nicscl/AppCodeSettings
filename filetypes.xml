@@ -2,27 +2,32 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="Dockerfile_build" type="Dockerfile" />
-      <mapping pattern="Dockerfile_dev" type="Dockerfile" />
+      <mapping ext="orig" type="Elixir file" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern=".flutter_settings" type="JSON" />
       <mapping pattern="customer_gateway.dart" type="Native" />
-      <mapping pattern="package_get" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile_umbrella" type="PLAIN_TEXT" />
-      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
-      <mapping pattern="set_development_ip.sh" type="PLAIN_TEXT" />
       <mapping pattern="calculate_dependencies" type="PLAIN_TEXT" />
+      <mapping pattern="package_get" type="PLAIN_TEXT" />
+      <mapping pattern="set_development_ip.sh" type="PLAIN_TEXT" />
+      <mapping pattern="Gemfile" type="PLAIN_TEXT" />
       <mapping pattern="dumb" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile_umbrella" type="PLAIN_TEXT" />
+      <mapping pattern="mini_order" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping pattern="Deliverfile" type="Ruby" />
+      <mapping pattern=".secrets" type="Ruby" />
+      <mapping pattern="Podfile" type="Ruby" />
+      <mapping pattern="Fastfile" type="Ruby" />
+      <mapping pattern="Pluginfile" type="Ruby" />
+      <mapping pattern="Appfile" type="Ruby" />
+      <mapping pattern="Matchfile" type="Ruby" />
       <mapping ext="sdef" type="XML" />
       <removed_mapping pattern=".leex" approved="true" type="EEx" />
       <removed_mapping ext="leex" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="orig" type="Elixir file" />
       <mapping ext="xconfig" type="Bash" />
-      <mapping pattern=".secrets" type="Ruby" />
-      <mapping pattern="Appfile" type="Ruby" />
-      <mapping pattern="Deliverfile" type="Ruby" />
-      <mapping pattern="Fastfile" type="Ruby" />
-      <mapping pattern="Matchfile" type="Ruby" />
-      <mapping pattern="Pluginfile" type="Ruby" />
     </extensionMap>
   </component>
 </application>
