@@ -62,6 +62,8 @@
   <action id="Console.TableResult.NavigateExportedAction">
     <keyboard-shortcut first-keystroke="alt f7" />
   </action>
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.Reload" />
   <action id="Console.TableResult.SelectRow" />
   <action id="CopyElement" />
@@ -117,10 +119,6 @@
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift page_down" />
     <keyboard-shortcut first-keystroke="shift end" />
-  </action>
-  <action id="EditorCodeBlockEnd">
-    <keyboard-shortcut first-keystroke="meta alt close_bracket" />
-    <keyboard-shortcut first-keystroke="meta alt down" />
   </action>
   <action id="EditorCodeBlockEndWithSelection">
     <keyboard-shortcut first-keystroke="shift meta alt close_bracket" />
@@ -196,6 +194,12 @@
   </action>
   <action id="EditorPreviousWordInDifferentHumpsModeWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl left" />
+  </action>
+  <action id="EditorScrollDownAndMove">
+    <keyboard-shortcut first-keystroke="meta alt down" />
+  </action>
+  <action id="EditorScrollUpAndMove">
+    <keyboard-shortcut first-keystroke="meta alt up" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta e" />
@@ -331,6 +335,7 @@
   </action>
   <action id="NextDiff" />
   <action id="NextEditorTab" />
+  <action id="NextOccurence" />
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl meta back_slash" />
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
@@ -354,6 +359,7 @@
     <keyboard-shortcut first-keystroke="meta open_bracket" />
   </action>
   <action id="PreviousEditorTab" />
+  <action id="PreviousOccurence" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl meta open_bracket" />
