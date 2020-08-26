@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="Dockerfile_dev" type="Dockerfile" />
       <mapping pattern="Dockerfile_build" type="Dockerfile" />
       <mapping ext="orig" type="Elixir file" />
       <mapping pattern="*.js.flow" type="Flow" />
