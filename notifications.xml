@@ -5,5 +5,6 @@
     <notification groupId="Framework Detection" displayType="NONE" shouldLog="false" />
     <notification groupId="Material Theme Notifications" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Plugins Suggestion" displayType="NONE" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" shouldLog="false" />
   </component>
 </application>
